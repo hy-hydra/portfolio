@@ -59,6 +59,12 @@ const SKILL_SETS: SkillSet[] = [
       },
       { title: "Gulp", iconName: "gulp", href: "https://gulpjs.com/" },
       {
+        title: "Webpack",
+        iconName: "webpack",
+        href: "https://webpack.js.org/",
+      },
+      { title: "Vite", iconName: "vite", href: "https://vitejs.dev/" },
+      {
         title: "Java",
         iconName: "java",
         href: "https://spring.io/projects/spring-boot",

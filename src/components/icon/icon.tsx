@@ -80,6 +80,8 @@ import Asana from "@/../public/img/icons/asana.svg";
 import Jest from "@/../public/img/icons/jest.svg";
 import Cypress from "@/../public/img/icons/cypress.svg";
 import Mocha from "@/../public/img/icons/mocha.svg";
+import Webpack from "@/../public/img/icons/webpack.svg";
+import Vite from "@/../public/img/icons/vite.svg";
 
 const icons: Record<IconName, FC<SVGProps<SVGSVGElement>>> = {
   figma: Figma,
@@ -103,6 +105,8 @@ const icons: Record<IconName, FC<SVGProps<SVGSVGElement>>> = {
   vuetify: Vuetify,
   chakra: Chakra,
   gulp: Gulp,
+  webpack: Webpack,
+  vite: Vite,
 
   java: Java,
   php: Php,
