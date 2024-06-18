@@ -36,6 +36,26 @@ const Works = () => {
               topics={["react", "vite"]}
             />
           </li>
+          <li>
+            <Card
+              img="/img/projects/tv-shows.png"
+              title="TV & Movie Shows"
+              description="This is a app where users can view Movies and TV shows."
+              href="https://cinefic.netlify.app/movies/now-playing"
+              githubUrl="https://github.com/hy-hydra/tv-shows"
+              topics={["react"]}
+            />
+          </li>
+          <li>
+            <Card
+              img="/img/projects/ai-website.png"
+              title="AI Website"
+              description="Build Something amazing with GPT-3 OpenAI."
+              href="https://gpt3-goke.vercel.app/"
+              githubUrl="https://github.com/hy-hydra/AI-website"
+              topics={["react"]}
+            />
+          </li>
         </ul>
       </div>
     </section>
