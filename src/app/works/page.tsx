@@ -26,6 +26,16 @@ const Works = () => {
               ]}
             />
           </li>
+          <li>
+            <Card
+              img="/img/projects/business-landing.png"
+              title="Business Landing Page"
+              description="Business Landing Page Using React + Vite."
+              href="https://business-landing-vite.vercel.app/"
+              githubUrl="https://github.com/hy-hydra/business-landing-vite"
+              topics={["react", "vite"]}
+            />
+          </li>
         </ul>
       </div>
     </section>

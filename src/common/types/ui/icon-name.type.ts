@@ -43,6 +43,8 @@ type IconName =
   | "mui"
   | "vuetify"
   | "naive"
+  | "webpack"
+  | "vite"
   | "java"
   | "php"
   | "node"
